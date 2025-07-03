@@ -1,7 +1,5 @@
 // ecrire le code de conversion ici
-let Celsius = 35;
-let fahrenheit = (Celsius * 9) / 5 + 32;
-console.log(fahrenheit);
+let celsius;
 
 // Conversion Celsius à Fahrenheit
 function celsiusToFahrenheit(celsius) {
@@ -12,4 +10,4 @@ function celsiusToFahrenheit(celsius) {
 }
 
 // les lignes suivantes ne sont pas à modifier
-module.exports = { celsiusTofahrenheit };
+module.exports = { celsiusToFahrenheit };

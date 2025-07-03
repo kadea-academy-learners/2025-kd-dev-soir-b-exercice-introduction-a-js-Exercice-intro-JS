@@ -1,11 +1,8 @@
-let age = 4;
-let nom = "jeremy";
-let estConnecte = true;
-let valeurNulle = null;
-let inconnue = undefined;
-console.log(
-  age + " " + nom + " " + estConnecte + " " + valeurNulle + " " + inconnue
-);
+let age;
+let nom;
+let estConnecte;
+let valeurNulle;
+let inconnue;
 
 // Les lignes ne doivent pas être modifiées
 module.exports = {
